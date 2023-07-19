@@ -58,4 +58,5 @@ public class Faculty {
     public void setColor(int color) {
         this.color = color;
     }
+//dfdfdsfds
 }
